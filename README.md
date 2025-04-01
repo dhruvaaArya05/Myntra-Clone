@@ -1,23 +1,25 @@
-Myntra-React-Clone
+# Myntra Clone 🛍️
 A React-based Myntra Clone with cart, wishlist & product browsing features. 🚀
+A fully functional **Myntra Clone** built with **React.js**, featuring a shopping cart, wishlist, and product browsing functionalities.
 
-Myntra Clone 🛍️
-A functional Myntra Clone built with React.js, featuring a shopping cart, wishlist, and product browsing functionalities.
+## 🚀 Features
 
-🚀 Features
-✅ Browse through a collection of products 🛒
-✅ Add products to the cart 🛍️
-✅ Add products to the wishlist ❤️
-✅ Responsive design for mobile & desktop 📱
-✅ Modern UI & smooth user experience ✨
+✅ Browse through a collection of products 🛒  
+✅ Add products to the cart 🛍️  
+✅ Add products to the wishlist ❤️  
+✅ Responsive design for mobile & desktop 📱  
+✅ Modern UI & smooth user experience ✨  
 
-🛠️ Tech Stack
-Frontend: React.js, React Router, Context API
-State Management: useContext, useReducer
-Styling: CSS / Bootstrap / Material-UI (choose based on your implementation)
-Backend (Optional): Mongodb / Node.js (if applicable)
+## 🛠️ Tech Stack
 
-📂 Folder Structure
+- **Frontend:** React.js, React Router, Context API
+- **State Management:** useContext, useReducer
+- **Styling:** CSS / Bootstrap / Material-UI (choose based on your implementation)
+- **Backend (Optional):** Mongodb / Node.js (if applicable)
+
+## 📂 Folder Structure
+
+```
 Myntra React Clone/
 |-- myntra/
 │-- public/
@@ -34,38 +36,51 @@ Myntra React Clone/
 │   │-- main.jsx     # Main component
 │-- package.json
 │-- README.md
+```
 
-⚙️ Installation
-Clone the repository:
-git clone https://github.com/dhruvaaArya05/Myntra-React-Clone.git
-cd myntra
+## ⚙️ Installation
 
-Install dependencies:
-npm install
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/dhruvaaArya05/Myntra-Clone.git
+   cd myntra
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
 
-Start the development server:
-npm start
+## 🚀 Deployment
 
-🚀 Deployment
-To deploy the project on Vercel / Netlify, follow these steps:
+To deploy the project on **Vercel / Netlify**, follow these steps:
 
-Build the project:
-npm run build
-Deploy on Vercel or Netlify.
+1. Build the project:
+   ```sh
+   npm run build
+   ```
+2. Deploy on [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
 
-📸 Screenshots
-![Screenshot 2025-04-01 231751](https://github.com/user-attachments/assets/ede7f3f8-e73f-4d3c-b350-d4a271897746)
-![Screenshot 2025-04-01 231731](https://github.com/user-attachments/assets/aa3782a8-c8fb-42aa-95c6-ed4e6ffc3892)
+## 📸 Screenshots
+![Screenshot 2025-04-01 231751](https://github.com/user-attachments/assets/0186c8e3-0308-416e-8f1a-56f8c527a401)
+![Screenshot 2025-04-01 231731](https://github.com/user-attachments/assets/a00e4d2f-f2e7-4b15-b90b-11ab66fbf50c)
 
-🛠️ Future Enhancements
-🔹 User Authentication (Signup/Login)
-🔹 Backend Integration for Storing Data
-🔹 Payment Gateway Integration
 
-🤝 Contributing
+## 🛠️ Future Enhancements
+
+🔹 User Authentication (Signup/Login)  
+🔹 Backend Integration for Storing Data  
+🔹 Payment Gateway Integration  
+
+## 🤝 Contributing
 Feel free to contribute! Fork the repo, create a feature branch, and submit a PR. 🚀
 
-📄 License
-This project is open-source and available under the MIT License.
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
 
+---
 ⭐ Star the repo if you like it! Happy coding! 🎉
+
